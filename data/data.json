@@ -1,0 +1,15 @@
+{
+    "person": {
+        "firstName": "Sierra",
+        "lastName": "Laurent"
+    }, 
+    "work": {
+        "job": "student",
+        "program": "Digital Design and Development",
+        "url": ""
+    },
+    "Study": {
+        "programs": "Digital",
+        "Department": "yes"
+    }
+}
